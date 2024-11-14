@@ -1,0 +1,6 @@
+et-xmlfile==1.1.0
+jdcal==1.4.1
+openpyexcel==2.5.14
+openpyxl==3.1.5
+pillow==10.4.0
+ttkbootstrap==1.10.1
